@@ -1,6 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Discord server
+  reserved: hi>
     url: https://discord.gg/AVEFbBn2rH
     about: Developers and users can be found on the Discord server
   - name: Blank issue
